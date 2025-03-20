@@ -1,0 +1,17 @@
+body, html{
+
+    background-color: #FF6500;
+
+}
+
+div{
+
+    border:solid #00ff00;
+    width: 600px
+    
+}
+.card{
+background-color:    aqua;
+
+}
+.card-imagem{background-color: black;}
