@@ -1,17 +1,43 @@
-body, html{
-
-    background-color: #FF6500;
-
+body,html{
+    background-color: C8E0F4;
 }
-
 div{
-
-    border:solid #00ff00;
-    width: 600px
-    
+    border: 2px solid
+}
+p{
+    color: rgb(3, 25, 39);
+    border: 1px solid 3, 25, 39;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: rgb(186, 18, 0);
+    border: 1px solid rgb(80, 138, 168)
+    text-align: center;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .card{
-background-color:    aqua;
-
+    background-color: rgb(157, 209, 241);
+    width: 249px;
+    border: 3px solid rgb(80, 138, 168);
 }
-.card-imagem{background-color: black;}
+.card-imagem{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+    border: 2px solid rgb(80, 138, 168);
+}
+.card-botao{
+    width: 100%; /* Largura do elemento */
+    height: 30px; /* Altura */
+    padding: 10px 0; /* Espaçamento */
+    background-color:rgb(80, 138, 168);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    border:rgb(183, 221, 245);
+}
+img{
+width: 150px;
+}
